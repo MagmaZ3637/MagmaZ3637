@@ -1,6 +1,6 @@
-<h2 align="center">👋 Halo Saya MagmaZ37</h2>
+<h1 align="center">👋 Halo Saya MagmaZ37</h2>
 
-<h4><center>Saya adalah developer pemula front end web dan game.</h4></center>
+<h4 align="center">Saya adalah developer pemula front end web dan game.</h4>
 
 <h3>About Me:</h3>
 
@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning: **C#, Laravel, JavaScript**
 - 😄 Pronouns: He/Him
 
-<h3 >My Skill</h3>
+<h3>My Skill</h3>
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40px">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px">

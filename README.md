@@ -18,5 +18,5 @@
 
 <h3>My Stats:</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=MagmaZ3637&show_icons=true&theme=prussian" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagmaZ3637&theme=prussian" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagmaZ3637&layout=donut-vertical&theme=prussian" />
 

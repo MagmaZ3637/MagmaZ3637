@@ -19,5 +19,6 @@
 <h3>My Stats:</h3>
 ![MagmaZ3637 Stats](https://github-readme-stats.vercel.app/api?username=MagmaZ3637&show_icons=true&theme=prussian&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagmaZ3637&layout=donut-vertical&theme=prussian)
 

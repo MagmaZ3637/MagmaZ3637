@@ -1,4 +1,4 @@
-# <center>👋 Halo Saya MagmaZ37</center>
+<h2 align="center">👋 Halo Saya MagmaZ37</h2>
 
 <h4><center>Saya adalah developer pemula front end web dan game.</h4></center>
 

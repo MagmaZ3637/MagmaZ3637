@@ -21,8 +21,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagmaZ3637&layout=donut-vertical&theme=prussian" />
 
 <h3>💬 Contact Me</h3>
-**Gmail:** magmaz3637@gmail.com
-**Instagram:** [MagmaZ3637](https://www.instagram.com/magmaz36376/)
+
+<p style="font-size: large">Gmail:</p> magmaz3637@gmail.com
+
+<p style="font-size: large">Instagram:</p> [MagmaZ3637](https://www.instagram.com/magmaz36376/)
 
 
 

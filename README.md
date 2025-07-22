@@ -22,9 +22,9 @@
 
 <h3>💬 Contact Me</h3>
 
-<p style="font-size: large">Gmail:</p> magmaz3637@gmail.com
+**Gmail:** magmaz3637@gmail.com
 
-<p style="font-size: large">Instagram:</p> [MagmaZ3637](https://www.instagram.com/magmaz36376/)
+**Instagram:** [MagmaZ3637](https://www.instagram.com/magmaz36376/)
 
 
 

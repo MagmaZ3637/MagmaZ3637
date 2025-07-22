@@ -22,9 +22,8 @@
 
 <h3>💬 Contact Me</h3>
 
-**Gmail:** magmaz3637@gmail.com
-
-**Instagram:** [MagmaZ3637](https://www.instagram.com/magmaz36376/)
+- **Gmail:** magmaz3637@gmail.com
+- **Instagram:** [MagmaZ3637](https://www.instagram.com/magmaz36376/)
 
 
 

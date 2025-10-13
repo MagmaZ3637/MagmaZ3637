@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning: **C#, Laravel, React**
 - 😄 Pronouns: He/Him
 
-<h3>🛠️ My Skill</h3>
+<h3>🛠️ My Skills</h3>
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40px">

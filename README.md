@@ -1,11 +1,11 @@
 <h1 align="center">👋 Halo Saya MagmaZ37</h2>
 
-<h4 align="center">Saya adalah developer front end, game dan plugin pocketmine.</h4>
+<h4 align="center">Saya adalah developer back end, game dan plugin pocketmine.</h4>
 
 <h3>👋 About Me</h3>
 
 - 🔭 I’m currently working on: **Tremego Craft**
-- 🌱 I’m currently learning: **C#, Laravel, React**
+- 🌱 I’m currently learning: **C#, React**
 - 😄 Pronouns: He/Him
 
 <h3>🛠️ My Skills</h3>
@@ -17,6 +17,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" width="40px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40px">
 </div>
 
